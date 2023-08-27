@@ -1,0 +1,130 @@
+.top-image {
+  display: flex; 
+  background-color: black;
+  width: 1080;
+}
+
+.heading {
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;    
+}
+
+/* Style for the paragraph */
+.one {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  margin-left: 500px;
+  word-spacing: 1em;
+
+}
+.top-image{
+    background-image: url("./Charity\ picture.jpg");
+    width: 100%;
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .main{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+  
+  }
+  .yellow{
+  background-color: rgb(255, 221, 0);
+  height: 150px;
+  width:200px;
+  border: solid 2px white;
+  margin-top: 30px;
+  margin-left: 100px;
+  padding: 30px;
+  }
+  .num{
+  font-size: 30px;
+  margin: 0px;
+  margin-bottom: 0px;}
+  .alpha{
+    margin-bottom:0px ;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  .but{
+  height: 40px;
+  width: 180px;
+  }
+  .button{
+  color: white;
+  height: 30px;
+  width: 100px;
+  background-color:  rgb(255, 221, 0);
+  border-color:  rgb(255, 221, 0);
+  }
+  .white{
+  height:150px;
+  width:300px;
+  border: solid 2px white;
+  margin-top: 1px;
+  padding-left: 20px;
+  }
+  h2{
+  padding-top: 4px;
+  }
+  .main2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  }
+  .box1{
+  height:150px;
+  width:300px;
+  border: solid 2px white;
+  margin-top: 1px;
+  padding-left: 20px;
+  display: flex;
+  }
+  .box2{
+  height:150px;
+  width:300px;
+  border: solid 2px white;
+  margin-top: 1px;
+  padding-left: 20px;
+  display: flex;
+  }
+  .box3{
+    height:150px;
+    width:300px;
+    border: solid 2px white;
+    margin-top: 1px;
+    padding-left: 20px;
+  display: flex;
+  }
+   .image1{
+  
+    height: 100px;
+    width:500px;
+    color: rgb(255, 221, 0);
+    font-size: 23px;
+    text-align: center;
+    padding-top: 25px;
+   }
+   .ex{
+    color:  rgb(255, 221, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .ex1{
+    color:  rgb(255, 221, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .ex2{
+    color:  rgb(255, 221, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+  
+  
+  
+  
+  
+   
+   
